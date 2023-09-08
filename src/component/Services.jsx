@@ -29,7 +29,7 @@ return (
         <section>
                 
             <motion.div className="serviceBox1" whileInView={animations.whileInView} initial={animations.one}>
-                <h3>5+</h3>
+                <h3>3+</h3>
                 <p>Years Experience in Programming</p>
             </motion.div>
             <motion.div className="serviceBox2" whileInView={animations.whileInView} initial={animations.twoAndthree}>
