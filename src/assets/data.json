@@ -1,34 +1,41 @@
 {
   "projects": [
+    {
+      "date": "20/08/2023",
+      "title": "PORTFOLIO",
+      "description": "Experience the future of information retrieval with our captivating frontend project. Dive into the demo for a glimpse of what's possible!",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/10/31/00/23/portfolio-2903909_640.png"
+    },
+    {
+      "date" : "22/08/2023",
+      "title": "YOUTUBE_CLONE",
+      "description": "Experience the future of information retrieval with our captivating frontend project. Dive into the demo for a glimpse of what's possible!",
+      "url" : "https://youtube-clone-hazel-nu.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2015/01/05/17/19/film-589490_640.jpg"
+    },
     { 
-      "date": "07/1/2023",
+      "date": "07/08/2023",
       "title": "TECHWORLD",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "description": "Experience the future of information retrieval with our captivating frontend project. Dive into the demo for a glimpse of what's possible!",
       "url": "https://websitefirst.vercel.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2018/03/09/08/36/businessman-3210932_640.jpg"
     },
 
     {
-      "date": "11/1/2023",
+      "date": "11/08/2023",
       "title": "VIDEO CONTENT",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "description": "Experience the future of information retrieval with our captivating frontend project. Dive into the demo for a glimpse of what's possible!",
       "url": "https://secondweb-two.vercel.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
     },
     {
-      "date": "15/1/2023",
+      "date": "15/08/2023",
       "title": "CRYPTO SITE",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "description": "Experience the future of information retrieval with our captivating frontend project. Dive into the demo for a glimpse of what's possible!",
       "url": "https://cryptosite-kappa.vercel.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
-    },
-    {
-      "date": "20/10/2022",
-      "title": "PORTFOLIO",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "/",
-      "imgSrc": "https://cdn.pixabay.com/photo/2017/10/31/00/23/portfolio-2903909_640.png"
-    }
+    } 
   ],
   "Experience": [
       {
